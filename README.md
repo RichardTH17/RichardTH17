@@ -17,7 +17,7 @@ Desarrollador Full-Stack Junior especializado en Java y tecnologías web. Constr
 ## 🛠️ Tecnologías y herramientas
 
 ### Lenguajes
-- Java
+- Java [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 - JavaScript
 - Python
 - HTML
