@@ -19,12 +19,15 @@ Desarrollador Full-Stack Junior especializado en Java y tecnologías web. Constr
 ### Lenguajes
 [![My Skills](https://skillicons.dev/icons?i=java,js,py,html,css,mysql )](https://skillicons.dev)
 
+
 ### Backend
 - Spring Boot
 - Node.js
 - API REST
-- Maven / Gradle
+- Maven
 - JPA / Hibernate
+[![My Skills](https://skillicons.dev/icons?i=spring,nodejs,fastapi, maven, hibernate)](https://skillicons.dev)
+
 
 ### Frontend
 - HTML
