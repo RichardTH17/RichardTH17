@@ -1,16 +1,74 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Ricardo Teneyuque
 
-<!--
-**RichardTH17/RichardTH17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Junior Full-Stack Developer | Java
 
-Here are some ideas to get you started:
+Desarrollador Full-Stack Junior especializado en Java y tecnologías web. Construyo interfaces modernas y aplicaciones backend con APIs REST, bases de datos SQL y una arquitectura clara y mantenible.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+
+- ☕ Desarrollo backend con Java, Spring Boot y Node.js
+- 🌐 Diseño interfaces responsivas con HTML, CSS y Bootstrap
+- 🎨 Creo prototipos y diseños de experiencia de usuario con Figma
+- 🗄️ Trabajo con bases de datos SQL
+- 🐍 Desarrollo scripts y soluciones con Python
+- 🧩 Interesado en APIs REST, arquitectura de software y buenas prácticas
+- 🤝 Abierto a colaborar en proyectos y crecer como desarrollador
+
+## 🛠️ Tecnologías y herramientas
+
+### Lenguajes
+- Java
+- JavaScript
+- Python
+- HTML5
+- CSS3
+- SQL
+
+### Backend
+- Spring Boot
+- Node.js
+- API REST
+- Maven / Gradle
+- JPA / Hibernate
+
+### Frontend
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
+- Diseño responsivo
+
+### Datos
+- SQL
+- Modelado de bases de datos
+- Consultas y relaciones
+- JDBC / JPA
+
+### Diseño y herramientas
+- Figma
+- Git
+- GitHub
+- VS Code
+- IntelliJ IDEA
+- Postman
+- Docker *(si aplica)*
+
+## 📊 Mis habilidades
+
+```text
+Java          ████████████
+Spring Boot   ███████████
+SQL           ███████████
+JavaScript    ███████████
+HTML          ███████████
+CSS           ███████████
+Node.js       ██████████
+Bootstrap     ██████████
+Python        █████████
+Figma         █████████
+
+
+
+
+
+
