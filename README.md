@@ -26,7 +26,7 @@ Desarrollador Full-Stack Junior especializado en Java y tecnologías web. Constr
 - API REST
 - Maven
 - JPA / Hibernate
-[![My Skills](https://skillicons.dev/icons?i=spring,nodejs,fastapi, maven, hibernate)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,nodejs,fastapi,maven,hibernate)](https://skillicons.dev)
 
 
 ### Frontend
