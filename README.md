@@ -17,7 +17,7 @@ Desarrollador Full-Stack Junior especializado en Java y tecnologías web. Constr
 ## 🛠️ Tecnologías y herramientas
 
 ### Lenguajes
-- Java [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+- Java
 - JavaScript
 - Python
 - HTML
@@ -59,7 +59,8 @@ Desarrollador Full-Stack Junior especializado en Java y tecnologías web. Constr
 - VS Code
 - IntelliJ IDEA
 - Postman
-- Docker *(si aplica)*
+
+[![My Skills](https://skillicons.dev/icons?i=figma,git,github,vscode,idea,postman)](https://skillicons.dev)
 
 ## 📊 Mis habilidades
 
