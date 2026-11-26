@@ -17,12 +17,7 @@ Desarrollador Full-Stack Junior especializado en Java y tecnologías web. Constr
 ## 🛠️ Tecnologías y herramientas
 
 ### Lenguajes
-- Java
-- JavaScript
-- Python
-- HTML5
-- CSS3
-- SQL
+[![My Skills](https://skillicons.dev/icons?i=java,js,py,html,css,mysql )](https://skillicons.dev)
 
 ### Backend
 - Spring Boot
