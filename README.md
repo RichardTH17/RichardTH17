@@ -44,6 +44,8 @@ Desarrollador Full-Stack Junior especializado en Java y tecnologías web. Constr
 - JavaScript
 - Diseño responsivo
 
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js)](https://skillicons.dev)
+
 ### Datos
 - SQL
 - Modelado de bases de datos
